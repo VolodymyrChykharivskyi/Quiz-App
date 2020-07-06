@@ -1,0 +1,15 @@
+.quiz {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    /*margin-top: 15vh;*/
+    padding: 10px 10px;
+}
+
+.counter {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}

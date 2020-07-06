@@ -1,0 +1,18 @@
+.result {
+    padding: 10px;
+}
+
+.info {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    max-width: 700px;
+    width: 100%;
+    margin: 35vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #a7b5b7;
+}

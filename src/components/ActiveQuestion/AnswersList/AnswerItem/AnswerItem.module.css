@@ -1,0 +1,18 @@
+.answerItem {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.answerItem:hover {
+    background: #037c87;
+    color: #fff;
+    transition: background .3s ease-in-out;
+}
+
+.answerItem.active {
+    background: #f3f7fb;
+    transition: background .3s ease-in-out;
+}
